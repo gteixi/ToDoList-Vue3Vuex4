@@ -1,6 +1,6 @@
 # To Do List Gemma
 
-This is a To Do List Project made with vue3 for europcarmobilitygroup as part of a FrontEnd Dev. Interview.
+This is my first Vue&Vuex project made within One Week that consist of a To Do List Responsive and Tested Front-end project.
 
 ## IN PROGRESS - Expected final project (Mobile First): 
 
