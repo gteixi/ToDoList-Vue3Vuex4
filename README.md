@@ -2,9 +2,9 @@
 
 This is my first Vue&Vuex project made within One Week that consist of a To Do List Responsive and Tested Front-end project.
 
-## IN PROGRESS - Expected final project (Mobile First): 
+## Screenshoot Final Result: 
 
-![Mobile First Image Project Design](https://github.com/gteixi/ToDoList-Vue3Vuex4/blob/main/src/assets/finalProject.JPG)
+![Mobile First Image Project Design](https://github.com/gteixi/ToDoList-Vue3Vuex4/blob/main/src/assets/pictureFinalProject.JPG)
 
 ## Project setup
 ```
