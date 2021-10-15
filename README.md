@@ -4,7 +4,7 @@ This is my first Vue&Vuex project made within One Week that consist of a To Do L
 
 ## IN PROGRESS - Expected final project (Mobile First): 
 
-![Mobile First Image Project Design](https://github.com/europcarmobilitygroup/emobg-gemma/blob/main/todolist-gemma/src/assets/expected_final_result_mobileFirst.JPG)
+![Mobile First Image Project Design](https://github.com/gteixi/ToDoList-Vue3Vuex4/blob/main/src/assets/finalProject.JPG)
 
 ## Project setup
 ```
