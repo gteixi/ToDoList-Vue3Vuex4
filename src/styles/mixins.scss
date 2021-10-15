@@ -1,0 +1,13 @@
+@import './variables.scss';
+
+@mixin size ($width, $height) {
+    width: $width;
+    height: $height;
+}
+
+@mixin display ($display, $flex-direction, $flex-wrap, $align-content) {
+    display: $display;
+    flex-direction: $flex-direction;
+    flex-wrap:$flex-wrap;
+    align-content:$align-content;
+}
